@@ -1,0 +1,18 @@
+# ===== Env / Secrets =====
+.env
+.env.*
+**/.env
+**/.env.*
+
+# ===== Go build =====
+bin/
+*.exe
+*.out
+
+# ===== Logs =====
+*.log
+
+# ===== IDE =====
+.idea/
+.vSCode/
+.DS_Store
